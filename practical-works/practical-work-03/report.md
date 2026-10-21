@@ -1,3 +1,7 @@
+## Ссылка на опрос:
+
+https://docs.google.com/forms/d/e/1FAIpQLSfwACHkvNTkA0fKxEE024yrogJcO5lim4OTwezGja9VgqGmpg/viewform?usp=dialog
+
 # Пункт отчёта №1. Перечень сегментов целевой аудитории с обоснованием
 
 По результатам анкетирования (16 человек) аудитория оказалась очень однородной:
